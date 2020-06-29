@@ -1,1 +1,9 @@
 work on enum and let me know
+
+how to write enum
+
+enum option <T> {
+
+Some<T>,
+None,
+}
